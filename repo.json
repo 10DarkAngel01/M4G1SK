@@ -1,18 +1,7 @@
 {
-  "modules": [
-    {
-      "id": "hide",
-      "name": "Hide Module",
-      "version": "1.0",
-      "zip_url": "https://github.com/10DarkAngel01/M4G1SK/raw/main/hide.zip",
-      "description": "A module to hide certain features..."
-    },
-    {
-      "id": "bootlop",
-      "name": "Boot Loop Fix",
-      "version": "1.0",
-      "zip_url": "https://github.com/10DarkAngel01/M4G1SK/raw/main/bootlop.zip",
-      "description": "Fixes boot loop issues..."
-    }
-  ]
+  "name": "M4G1SK Magisk Modules Repo",
+  "description": "Custom Magisk modules by 10DarkAngel01",
+  "repo_url": "https://github.com/10DarkAngel01/M4G1SK",
+  "support_url": "https://xda-developers.com/t/mrepo-finally-a-true-open-source-magisk-module-repository-manager.4627283/",
+  "maintainer": "10DarkAngel01"
 }
