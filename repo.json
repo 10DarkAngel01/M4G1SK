@@ -1,0 +1,18 @@
+{
+  "modules": [
+    {
+      "id": "hide",
+      "name": "Hide Module",
+      "version": "1.0",
+      "zip_url": "https://github.com/10DarkAngel01/M4G1SK/raw/main/hide.zip",
+      "description": "A module to hide certain features..."
+    },
+    {
+      "id": "bootlop",
+      "name": "Boot Loop Fix",
+      "version": "1.0",
+      "zip_url": "https://github.com/10DarkAngel01/M4G1SK/raw/main/bootlop.zip",
+      "description": "Fixes boot loop issues..."
+    }
+  ]
+}
